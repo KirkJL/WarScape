@@ -3,6 +3,14 @@ Welcome to the World of WarScape.
 
 Taking influence from World of Warcraft and RuneScape, this plug in adds a whole new breathe of fresh air to how you can play OldSchool RuneScape.
 
+I am looking to launch the plug in Summer 2023. 
+
+Donations to my Coffee fund are much appreciated! 
+
+<p align="center"><a href="https://www.buymeacoffee.com/kirk" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+</p>
 <p align="center"><B>Concept</b>.</p>
 
 I am a big fan of Risk v Reward and Full Loot systems, this means WarScape will be a High-Risk <b>ONLY</b> Plugin and will only support high-risk worlds.

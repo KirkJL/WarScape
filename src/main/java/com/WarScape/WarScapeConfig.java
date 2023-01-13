@@ -1,15 +1,15 @@
-package com.example;
+package com.WarScape;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("example")
-public interface ExampleConfig extends Config
+@ConfigGroup("WarScape")
+public interface WarScapeConfig extends Config
 {
 	@ConfigItem(
 		keyName = "greeting",
-		name = "Welcome Greeting",
+		name = "Welcome Greetings",
 		description = "The message to show to the user when they login"
 	)
 	default String greeting()
